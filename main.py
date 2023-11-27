@@ -1,3 +1,5 @@
-from funcs import sum_
+from funcs import sum_, diff_
 
 sum_()
+
+diff_()
